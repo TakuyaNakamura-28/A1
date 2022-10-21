@@ -1,0 +1,150 @@
+div {
+  color: black;
+  text-align: center;
+  font-size: 125%;
+  -webkit-text-stroke: 3px;
+}
+img {
+  width: 800px;
+  height: 500px;
+}
+body {
+  border: 10px solid blue;
+}
+p {
+  text-align: center;
+  font-size: 190%;
+  -webkit-text-stroke: 1px;
+}
+h1 {
+  text-align: center;
+  font-size: 500%;
+  -webkit-text-stroke: 5px;
+  background-color:blue;
+  color: white;
+}
+
+#textarea {
+  font-size: 200%;
+}
+
+#button {
+  font-size: 150%;
+  display: inline-block;
+}
+
+#home {
+  color: black;
+  margin: 30px;
+  display: inline-block;
+  font-size: 180%;
+}
+
+#loginUser {
+  font-size: 150%;
+  text-align: right;
+}
+p {
+  -webkit-text-stroke: 3px;
+}
+
+
+
+
+/* 
+form table {
+  border-spacing: 0;
+}
+form td {
+  padding: 10px;
+  border-bottom: 1px solid #eee;
+}
+form th {
+  padding: 15px;
+  border-bottom: 1px solid #eee;
+  text-align: center;
+  font-weight: normal;
+  vertical-align: top;
+  width: 5em;
+}
+.hissu,
+.ninni {
+  padding-right: 4em;
+  position: relative;
+}
+.hissu::after,
+.ninni::after {
+  content: "必須";
+  display: inline-block;
+  position: absolute;
+  right: 10px;
+  top: 15px;
+  border: 1px solid #ccc;
+  padding: 0 5px;
+  font-size: 85%;
+  background: #d40000;
+  color: #fff;
+}
+.ninni::after {
+  content: "任意";
+  background: #d2e5ff;
+  color: #333;
+}
+form input[type="text"],
+form textarea {
+  background: #f2f2f2;
+  border: 1px solid #999;
+  margin: 0 5px;
+  width: 300px;
+  padding: 5px;
+  box-sizing: border-box;
+}
+.attention {
+  display: inline-block;
+}
+.smallinput {
+  width: 100px !important;
+}
+.buttonwrap {
+  text-align: center;
+  padding: 20px 0;
+}
+form input[type="button"],
+form input[type="submit"] {
+  display: inline-block;
+  background: #d13415;
+  padding: 10px;
+  text-align: center;
+  color: #fff;
+  margin: 5px;
+  border: 1px solid;
+  cursor: pointer;
+  width: 150px;
+}
+form input[type="button"] {
+  background: #f2f2f2;
+  color: #333;
+  border: none;
+}
+@media (max-width: 500px) {
+  form table,
+  form tr,
+  form th,
+  form td {
+    display: block;
+  }
+  form th {
+    width: auto;
+    border-bottom: none;
+    padding: 13px 10px 0 5em;
+  }
+  .hissu::after,
+  .ninni::after {
+    right: auto;
+    left: 15px;
+  }
+  form input[type="text"],
+  form textarea {
+    width: calc(100% - 10px);
+  }
+} */
